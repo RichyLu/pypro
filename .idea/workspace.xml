@@ -2,162 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ff17546-0069-4298-9de7-d5a2ea5e1f04" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/truebingo/day01/day0101.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/truebingo/day02/day0201.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/truebingo/day03/day0301.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day1/coding.py" afterPath="$PROJECT_DIR$/demo/day1/coding.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day1/guess for .py" afterPath="$PROJECT_DIR$/demo/day1/guess for .py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day1/guess.py" afterPath="$PROJECT_DIR$/demo/day1/guess.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day1/guess任性玩.py" afterPath="$PROJECT_DIR$/demo/day1/guess任性玩.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day1/interaction.py" afterPath="$PROJECT_DIR$/demo/day1/interaction.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day1/passwd.py" afterPath="$PROJECT_DIR$/demo/day1/passwd.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day1/var.py" afterPath="$PROJECT_DIR$/demo/day1/var.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day1/while.py" afterPath="$PROJECT_DIR$/demo/day1/while.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/get 进程id.py" afterPath="$PROJECT_DIR$/demo/day10/get 进程id.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/gevent_socket.py" afterPath="$PROJECT_DIR$/demo/day10/gevent_socket.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/greenlet携程.py" afterPath="$PROJECT_DIR$/demo/day10/greenlet携程.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/lock.py" afterPath="$PROJECT_DIR$/demo/day10/lock.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/manager.py" afterPath="$PROJECT_DIR$/demo/day10/manager.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/manager2.py" afterPath="$PROJECT_DIR$/demo/day10/manager2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/mutlti conn socket client.py" afterPath="$PROJECT_DIR$/demo/day10/mutlti conn socket client.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/pipe.py" afterPath="$PROJECT_DIR$/demo/day10/pipe.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/pipe2.py" afterPath="$PROJECT_DIR$/demo/day10/pipe2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/process_pool.py" afterPath="$PROJECT_DIR$/demo/day10/process_pool.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/select socket server.py" afterPath="$PROJECT_DIR$/demo/day10/select socket server.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/selector模块.py" afterPath="$PROJECT_DIR$/demo/day10/selector模块.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/socket_client.py" afterPath="$PROJECT_DIR$/demo/day10/socket_client.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/url.html" afterPath="$PROJECT_DIR$/demo/day10/url.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/xx.py" afterPath="$PROJECT_DIR$/demo/day10/xx.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/yield.py" afterPath="$PROJECT_DIR$/demo/day10/yield.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/携程.py" afterPath="$PROJECT_DIR$/demo/day10/携程.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/爬虫.py" afterPath="$PROJECT_DIR$/demo/day10/爬虫.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/爬虫2.py" afterPath="$PROJECT_DIR$/demo/day10/爬虫2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/笔记" afterPath="$PROJECT_DIR$/demo/day10/笔记" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/自动io切换.py" afterPath="$PROJECT_DIR$/demo/day10/自动io切换.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/进程queue.py" afterPath="$PROJECT_DIR$/demo/day10/进程queue.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day10/进程池.py" afterPath="$PROJECT_DIR$/demo/day10/进程池.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day2_code/3level_menus.py" afterPath="$PROJECT_DIR$/demo/day2_code/3level_menus.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day2_code/dictionary.py" afterPath="$PROJECT_DIR$/demo/day2_code/dictionary.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day2_code/names.py" afterPath="$PROJECT_DIR$/demo/day2_code/names.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day2_code/shopping.py" afterPath="$PROJECT_DIR$/demo/day2_code/shopping.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day2_code/string.py" afterPath="$PROJECT_DIR$/demo/day2_code/string.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day2_code/test.py" afterPath="$PROJECT_DIR$/demo/day2_code/test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/3level_menus.py" afterPath="$PROJECT_DIR$/demo/day3-code/3level_menus.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/a.txt" afterPath="$PROJECT_DIR$/demo/day3-code/a.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/dictionary.py" afterPath="$PROJECT_DIR$/demo/day3-code/dictionary.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/file_op.py" afterPath="$PROJECT_DIR$/demo/day3-code/file_op.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/func_test1.py" afterPath="$PROJECT_DIR$/demo/day3-code/func_test1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/func_test2.py" afterPath="$PROJECT_DIR$/demo/day3-code/func_test2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/func_test3.py" afterPath="$PROJECT_DIR$/demo/day3-code/func_test3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/func_test4.py" afterPath="$PROJECT_DIR$/demo/day3-code/func_test4.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/func_test5.py" afterPath="$PROJECT_DIR$/demo/day3-code/func_test5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/func_test6.py" afterPath="$PROJECT_DIR$/demo/day3-code/func_test6.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/func_test7.py" afterPath="$PROJECT_DIR$/demo/day3-code/func_test7.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/names.py" afterPath="$PROJECT_DIR$/demo/day3-code/names.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/shopping.py" afterPath="$PROJECT_DIR$/demo/day3-code/shopping.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/string.py" afterPath="$PROJECT_DIR$/demo/day3-code/string.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/test.py" afterPath="$PROJECT_DIR$/demo/day3-code/test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/with语句.py" afterPath="$PROJECT_DIR$/demo/day3-code/with语句.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/yesterday2.bak" afterPath="$PROJECT_DIR$/demo/day3-code/yesterday2.bak" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/局部变量.py" afterPath="$PROJECT_DIR$/demo/day3-code/局部变量.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/文件修改.py" afterPath="$PROJECT_DIR$/demo/day3-code/文件修改.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/进度条.py" afterPath="$PROJECT_DIR$/demo/day3-code/进度条.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/递归.py" afterPath="$PROJECT_DIR$/demo/day3-code/递归.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/集合.py" afterPath="$PROJECT_DIR$/demo/day3-code/集合.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day3-code/高阶函数.py" afterPath="$PROJECT_DIR$/demo/day3-code/高阶函数.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/Atm/bin/atm.py" afterPath="$PROJECT_DIR$/demo/day4/Atm/bin/atm.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/Atm/core/main.py" afterPath="$PROJECT_DIR$/demo/day4/Atm/core/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/decorator.py" afterPath="$PROJECT_DIR$/demo/day4/代码/decorator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/decorator1.py" afterPath="$PROJECT_DIR$/demo/day4/代码/decorator1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/decorator2.py" afterPath="$PROJECT_DIR$/demo/day4/代码/decorator2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/decorator3.py" afterPath="$PROJECT_DIR$/demo/day4/代码/decorator3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/decorator4.py" afterPath="$PROJECT_DIR$/demo/day4/代码/decorator4.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/decorator高潮版.py" afterPath="$PROJECT_DIR$/demo/day4/代码/decorator高潮版.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/json反序列化.py" afterPath="$PROJECT_DIR$/demo/day4/代码/json反序列化.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/json反序列化2.py" afterPath="$PROJECT_DIR$/demo/day4/代码/json反序列化2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/json反序列化3.py" afterPath="$PROJECT_DIR$/demo/day4/代码/json反序列化3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/json序列化.py" afterPath="$PROJECT_DIR$/demo/day4/代码/json序列化.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/json序列化2.py" afterPath="$PROJECT_DIR$/demo/day4/代码/json序列化2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/代码/json序列化3.py" afterPath="$PROJECT_DIR$/demo/day4/代码/json序列化3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/内置方法.py" afterPath="$PROJECT_DIR$/demo/day4/内置方法.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/斐波那契.py" afterPath="$PROJECT_DIR$/demo/day4/斐波那契.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day4/生成器并行.py" afterPath="$PROJECT_DIR$/demo/day4/生成器并行.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/__init__.py" afterPath="$PROJECT_DIR$/demo/day5/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/configparser生成模块.py" afterPath="$PROJECT_DIR$/demo/day5/configparser生成模块.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/configparser读.py" afterPath="$PROJECT_DIR$/demo/day5/configparser读.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/day5-atm/atm/log/transactions.log" afterPath="$PROJECT_DIR$/demo/day5/day5-atm/atm/log/transactions.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/example.cfg" afterPath="$PROJECT_DIR$/demo/day5/example.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/example.ini" afterPath="$PROJECT_DIR$/demo/day5/example.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/ha.conf" afterPath="$PROJECT_DIR$/demo/day5/ha.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/hashlib模块.py" afterPath="$PROJECT_DIR$/demo/day5/hashlib模块.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/module_alex.py" afterPath="$PROJECT_DIR$/demo/day5/module_alex.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/module_test/main.py" afterPath="$PROJECT_DIR$/demo/day5/module_test/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/module_test/t.py" afterPath="$PROJECT_DIR$/demo/day5/module_test/t.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/output.xml" afterPath="$PROJECT_DIR$/demo/day5/output.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/p_test.py" afterPath="$PROJECT_DIR$/demo/day5/p_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/package_test/__init__.py" afterPath="$PROJECT_DIR$/demo/day5/package_test/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/package_test/test1.py" afterPath="$PROJECT_DIR$/demo/day5/package_test/test1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/random_test/test1.py" afterPath="$PROJECT_DIR$/demo/day5/random_test/test1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/shelve_test.bak" afterPath="$PROJECT_DIR$/demo/day5/shelve_test.bak" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/shelve_test.dir" afterPath="$PROJECT_DIR$/demo/day5/shelve_test.dir" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/shelve模块.py" afterPath="$PROJECT_DIR$/demo/day5/shelve模块.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/shutil模块.py" afterPath="$PROJECT_DIR$/demo/day5/shutil模块.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/test.xml" afterPath="$PROJECT_DIR$/demo/day5/test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/test4/a/b/__init__.py" afterPath="$PROJECT_DIR$/demo/day5/test4/a/b/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/test4/a/b/c/__init__.py" afterPath="$PROJECT_DIR$/demo/day5/test4/a/b/c/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/test4/a/test.py" afterPath="$PROJECT_DIR$/demo/day5/test4/a/test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/test4/module_test.py" afterPath="$PROJECT_DIR$/demo/day5/test4/module_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/test4/test.py" afterPath="$PROJECT_DIR$/demo/day5/test4/test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/xmltest.xml" afterPath="$PROJECT_DIR$/demo/day5/xmltest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/xml修改.py" afterPath="$PROJECT_DIR$/demo/day5/xml修改.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/xml创建.py" afterPath="$PROJECT_DIR$/demo/day5/xml创建.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/xml处理.py" afterPath="$PROJECT_DIR$/demo/day5/xml处理.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/本节笔记" afterPath="$PROJECT_DIR$/demo/day5/本节笔记" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/笔记2" afterPath="$PROJECT_DIR$/demo/day5/笔记2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day5/笔记3" afterPath="$PROJECT_DIR$/demo/day5/笔记3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day6/cs play.py" afterPath="$PROJECT_DIR$/demo/day6/cs play.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day6/dog.py" afterPath="$PROJECT_DIR$/demo/day6/dog.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day6/多态.py" afterPath="$PROJECT_DIR$/demo/day6/多态.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day6/多继承区别.py" afterPath="$PROJECT_DIR$/demo/day6/多继承区别.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day6/本节笔记.py" afterPath="$PROJECT_DIR$/demo/day6/本节笔记.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day6/继承-学校.py" afterPath="$PROJECT_DIR$/demo/day6/继承-学校.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day6/继承.py" afterPath="$PROJECT_DIR$/demo/day6/继承.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/__new__.py" afterPath="$PROJECT_DIR$/demo/day7/__new__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/getitem.py" afterPath="$PROJECT_DIR$/demo/day7/getitem.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/index.py" afterPath="$PROJECT_DIR$/demo/day7/index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/lib/aa.py" afterPath="$PROJECT_DIR$/demo/day7/lib/aa.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/metaclass.py" afterPath="$PROJECT_DIR$/demo/day7/metaclass.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/socket_client.py" afterPath="$PROJECT_DIR$/demo/day7/socket_client.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/socket_server.py" afterPath="$PROJECT_DIR$/demo/day7/socket_server.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/反射.py" afterPath="$PROJECT_DIR$/demo/day7/反射.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/属性方法.py" afterPath="$PROJECT_DIR$/demo/day7/属性方法.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/属性方法例子.py" afterPath="$PROJECT_DIR$/demo/day7/属性方法例子.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/异常处理.py" afterPath="$PROJECT_DIR$/demo/day7/异常处理.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/本节笔记" afterPath="$PROJECT_DIR$/demo/day7/本节笔记" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/类方法.py" afterPath="$PROJECT_DIR$/demo/day7/类方法.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/自定义异常.py" afterPath="$PROJECT_DIR$/demo/day7/自定义异常.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day7/静态方法.py" afterPath="$PROJECT_DIR$/demo/day7/静态方法.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day8/FTP_server.py" afterPath="$PROJECT_DIR$/demo/day8/FTP_server.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day8/ftp_client.py" afterPath="$PROJECT_DIR$/demo/day8/ftp_client.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day8/ftp_client/ftp_client.py" afterPath="$PROJECT_DIR$/demo/day8/ftp_client/ftp_client.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day8/ftp_client_md5.py" afterPath="$PROJECT_DIR$/demo/day8/ftp_client_md5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day8/ftp_server/core/main.py" afterPath="$PROJECT_DIR$/demo/day8/ftp_server/core/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day8/hash.py" afterPath="$PROJECT_DIR$/demo/day8/hash.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day8/sock_server_client.py" afterPath="$PROJECT_DIR$/demo/day8/sock_server_client.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day8/sock_server_ssh.py" afterPath="$PROJECT_DIR$/demo/day8/sock_server_ssh.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day8/socket_server 基本.py" afterPath="$PROJECT_DIR$/demo/day8/socket_server 基本.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day8/笔记" afterPath="$PROJECT_DIR$/demo/day8/笔记" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/rlock.py" afterPath="$PROJECT_DIR$/demo/day9/rlock.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/ssh rsaa.py" afterPath="$PROJECT_DIR$/demo/day9/ssh rsaa.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/ssh.py" afterPath="$PROJECT_DIR$/demo/day9/ssh.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/ssh_sft.py" afterPath="$PROJECT_DIR$/demo/day9/ssh_sft.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/threading_ex1.py" afterPath="$PROJECT_DIR$/demo/day9/threading_ex1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/threading_ex2.py" afterPath="$PROJECT_DIR$/demo/day9/threading_ex2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/threading_ex3 daemon.py" afterPath="$PROJECT_DIR$/demo/day9/threading_ex3 daemon.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/threading_ex3 lock.py" afterPath="$PROJECT_DIR$/demo/day9/threading_ex3 lock.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/信号量.py" afterPath="$PROJECT_DIR$/demo/day9/信号量.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/生产者消费者.py" afterPath="$PROJECT_DIR$/demo/day9/生产者消费者.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/笔记" afterPath="$PROJECT_DIR$/demo/day9/笔记" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/红绿灯.py" afterPath="$PROJECT_DIR$/demo/day9/红绿灯.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day9/队列.py" afterPath="$PROJECT_DIR$/demo/day9/队列.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -166,14 +14,38 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pypro$guess_for_.coverage" NAME="guess for  Coverage Results" MODIFIED="1513358066149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day1" />
+    <SUITE FILE_PATH="coverage/pypro$guess.coverage" NAME="guess任性玩 Coverage Results" MODIFIED="1513358173872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/day1" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="coding.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo/day1/coding.py">
+      <file leaf-file-name="day0301.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/truebingo/day03/day0301.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day0201.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/truebingo/day02/day0201.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day0101.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/truebingo/day01/day0101.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -181,8 +53,30 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo/day1/guess.py" />
+        <option value="$PROJECT_DIR$/truebingo/day03/day0301.py" />
+        <option value="$PROJECT_DIR$/truebingo/day02/day0201.py" />
+        <option value="$PROJECT_DIR$/truebingo/day01/day0101.py" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -237,7 +131,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="truebingo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day03" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -251,11 +149,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="truebingo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day1" />
+              <option name="myItemId" value="day02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pypro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pypro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="truebingo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -280,7 +196,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.guess任性玩">
+    <configuration default="false" name="guess for " type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pypro" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/day1/guess for .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="guess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pypro" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/day1/guess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="guess任性玩" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pypro" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/day1/guess任性玩.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -423,6 +396,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.guess for " />
+      <item index="1" class="java.lang.String" itemvalue="Python.guess" />
+      <item index="2" class="java.lang.String" itemvalue="Python.guess任性玩" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.guess任性玩" />
+        <item index="1" class="java.lang.String" itemvalue="Python.guess" />
+        <item index="2" class="java.lang.String" itemvalue="Python.guess for " />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -447,17 +432,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -465,7 +450,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -489,6 +473,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day1/guess for .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day1/guess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day1/guess任性玩.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day1/while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day1/var.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day1/passwd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truebingo/day03/day0301.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truebingo/day02/day0201.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truebingo/day01/day0101.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
